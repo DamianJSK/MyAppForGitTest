@@ -47,6 +47,8 @@ public class MainActivity extends AppCompatActivity {
             return true;
         }
         int whohoho =3;
+        int o = 0;
+
         return super.onOptionsItemSelected(item);
     }
 }
