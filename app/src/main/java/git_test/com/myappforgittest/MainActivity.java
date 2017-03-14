@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.action_settings) {
             return true;
         }
-
+        int whohoho =3;
         return super.onOptionsItemSelected(item);
     }
 }
